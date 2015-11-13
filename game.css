@@ -13,11 +13,11 @@ body {
   align-items: center;
 }
 .tile {
-  color: white;
+  color: gold;
   font: monospace;
   height: 180px;
   width: 180px;
-  border: 10px solid white;
+  border: 10px solid black;
   margin: 2px;
   font-size: 150px;
   display: flex;
