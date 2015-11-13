@@ -1,5 +1,5 @@
 body {
-  background: deepskyblue;
+  background: green;
 }
 .status-bar {
   flex-direction: row;
@@ -13,7 +13,7 @@ body {
   align-items: center;
 }
 .tile {
-  color: white;
+  color: green;
   font: monospace;
   height: 180px;
   width: 180px;
