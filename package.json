@@ -2,7 +2,7 @@
   "name": "davidsng",
   "version": "1.0.0",
   "description": "Tic Tac Toe game",
-  "main": "game.js",
+  "main": "game/game.js",
   "scripts": {
     "start": "npm run build && npm run start-server",
     "start-server": "http-server dist",
